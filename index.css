@@ -32,6 +32,33 @@ font-size: 20px;
 
 }
 .second-step{
-
 text-align: center;
 }
+.third-part{
+   align-items: center;
+   justify-content: center;
+   display: flex;
+}
+.first-img{
+    background-color: #0597a0;
+    height: 605px;
+    width: 464px;
+   border-radius: 500%;
+}
+.second-img{
+   background-color:#a72174;
+    height: 605px;
+    width: 464px;
+   border-radius:500%;}
+
+
+.third-img{
+    background-color:#477D11;
+     height: 605px;
+     width: 464px;
+    border-radius:500%;}
+    a{
+        font-size: x-large;
+        padding: 0px 0px 0px 150px;
+
+
