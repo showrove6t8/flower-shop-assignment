@@ -104,3 +104,17 @@ padding: 100px;
 margin-top: 20px;
 margin-bottom: 20px;
 }
+.span-container{
+    color:#e55473;
+}
+.footer-container{
+    text-align: center;
+    padding: 100px;
+    background: color #1e1e1e;;
+}
+.footer-pera{
+    color: white;
+}
+.footer-color{
+    color: gold;
+}
