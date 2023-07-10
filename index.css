@@ -70,7 +70,7 @@ text-align: center;
      width: 1820px;
      justify-content: space-between;
      padding: 20px 140px 30px 150px;
-     margin: auto;
+     margin-top: 40px;
     }
     .forth-step{
    font-style: italic;
@@ -93,4 +93,14 @@ text-align: center;
    .sixt-image{
 background-color: gray;
    }
-
+   .input-container{
+    width: 700px;
+    height: 62px;
+   }
+.sevnth-part{
+    text-align: center;
+background-image: url(./flower-shop-assignment/Rectangle\ 9.png);
+padding: 100px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
