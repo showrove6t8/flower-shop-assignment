@@ -1,0 +1,37 @@
+.start{
+    display: flex;
+    align-items: center;
+    background-color: #e5547342;
+ height: 850px;
+ width: 1920px;
+ justify-content: space-between;
+ padding: 20px 40px 30px 150px;
+}
+.profile-pic{
+   width: 635px;
+   height: 800px;
+}
+.start-button{
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #E55473;
+    font-size: 20px;
+    font-weight: 700;
+}
+.start-headin{
+    font-size: 70px;
+}
+.start-pera{
+    font-size: 25px;
+}
+.second-step-pera{
+font-size: 20px;
+}
+.second-step-hed{
+    font-size: 40px;
+
+}
+.second-step{
+
+text-align: center;
+}
