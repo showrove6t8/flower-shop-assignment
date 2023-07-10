@@ -2,12 +2,12 @@
     display: flex;
     align-items: center;
     background-color: #e5547342;
- height: 850px;
- width: 1920px;
+ height: 750px;
+ width: 1820px;
  justify-content: space-between;
  padding: 20px 40px 30px 150px;
 }
-.profile-pic{
+.start-image{
    width: 635px;
    height: 800px;
 }
@@ -23,6 +23,7 @@
 }
 .start-pera{
     font-size: 25px;
+    font-style: italic;
 }
 .second-step-pera{
 font-size: 20px;
@@ -60,5 +61,36 @@ text-align: center;
     a{
         font-size: x-large;
         padding: 0px 0px 0px 150px;
-
+    }
+    .first-main{
+        display: flex;
+        align-items: center;
+        background-color: #e5547342;
+     height: 750px;
+     width: 1820px;
+     justify-content: space-between;
+     padding: 20px 140px 30px 150px;
+     margin: auto;
+    }
+    .forth-step{
+   font-style: italic;
+   font-size: 20px;
+    }
+    .fifth-img{
+   height: 396px;
+   width: 342px;
+   display: flex;
+ padding-left: 280px;
+ gap: 20px;
+ 
+    }
+    .sixth-image{
+        background-color: #e554739c;
+        
+        height: 396px;
+   width: 332px;
+    }
+   .sixt-image{
+background-color: gray;
+   }
 
